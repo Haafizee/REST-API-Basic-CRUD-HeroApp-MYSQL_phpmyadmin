@@ -1,0 +1,4 @@
+POST: http://192.168.91.7/HeroApi/v1/Api.php?apicall=createhero
+GET: http://192.168.91.7/HeroApi/v1/Api.php?apicall=getheroes
+POST: http://192.168.91.7/HeroApi/v1/Api.php?apicall=updatehero
+GET: http://192.168.91.7/HeroApi/v1/Api.php?apicall=deletehero&id=idvalue
